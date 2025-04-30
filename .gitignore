@@ -37,3 +37,5 @@ coverage.xml
 
 # Local development settings
 *.sqlite3 
+.pypirc
+.venv/
